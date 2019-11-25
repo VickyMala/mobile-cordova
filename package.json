@@ -16,7 +16,9 @@
   "keywords": [
     "ecosystem:cordova",
     "cordova-ios",
-    "cordova-android"
+    "cordova-android",
+    "jumio"
+ 
   ],
   "author": "Jumio Corporation"
 }
